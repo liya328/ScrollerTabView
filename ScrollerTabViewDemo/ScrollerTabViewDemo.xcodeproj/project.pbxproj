@@ -14,7 +14,7 @@
 		8F36A8231CA12DBD00ABC691 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F36A8221CA12DBD00ABC691 /* Assets.xcassets */; };
 		8F36A8261CA12DBD00ABC691 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F36A8241CA12DBD00ABC691 /* LaunchScreen.storyboard */; };
 		8F36A8311CA12DBD00ABC691 /* ScrollerTabViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F36A8301CA12DBD00ABC691 /* ScrollerTabViewDemoTests.m */; };
-		8F36A83E1CA12E6E00ABC691 /* ScrollerTabView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F36A83D1CA12E6E00ABC691 /* ScrollerTabView.m */; };
+		8F36A8471CA130AD00ABC691 /* ScrollerTabView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F36A8461CA130AD00ABC691 /* ScrollerTabView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +41,8 @@
 		8F36A82C1CA12DBD00ABC691 /* ScrollerTabViewDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrollerTabViewDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F36A8301CA12DBD00ABC691 /* ScrollerTabViewDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollerTabViewDemoTests.m; sourceTree = "<group>"; };
 		8F36A8321CA12DBD00ABC691 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8F36A83C1CA12E6E00ABC691 /* ScrollerTabView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScrollerTabView.h; sourceTree = "<group>"; };
-		8F36A83D1CA12E6E00ABC691 /* ScrollerTabView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollerTabView.m; sourceTree = "<group>"; };
+		8F36A8451CA130AD00ABC691 /* ScrollerTabView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScrollerTabView.h; sourceTree = "<group>"; };
+		8F36A8461CA130AD00ABC691 /* ScrollerTabView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollerTabView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,8 +118,8 @@
 		8F36A83B1CA12E2E00ABC691 /* ScrollerTabView */ = {
 			isa = PBXGroup;
 			children = (
-				8F36A83C1CA12E6E00ABC691 /* ScrollerTabView.h */,
-				8F36A83D1CA12E6E00ABC691 /* ScrollerTabView.m */,
+				8F36A8451CA130AD00ABC691 /* ScrollerTabView.h */,
+				8F36A8461CA130AD00ABC691 /* ScrollerTabView.m */,
 			);
 			name = ScrollerTabView;
 			sourceTree = "<group>";
@@ -224,7 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8F36A83E1CA12E6E00ABC691 /* ScrollerTabView.m in Sources */,
+				8F36A8471CA130AD00ABC691 /* ScrollerTabView.m in Sources */,
 				8F36A81E1CA12DBD00ABC691 /* ViewController.m in Sources */,
 				8F36A81B1CA12DBD00ABC691 /* AppDelegate.m in Sources */,
 				8F36A8181CA12DBD00ABC691 /* main.m in Sources */,
