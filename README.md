@@ -2,9 +2,9 @@
 可滚动的tab切换空间，并且可居中滚动，左右两边还有虚化效果
 
 ## Demo Gif
-![Alt Text](https://github.com/liya328/ScrollerTabView/blob/master/ScrollerTabViewDemo/ScrollerTabViewShot1.png)
-![Alt Text](https://github.com/liya328/ScrollerTabView/blob/master/ScrollerTabViewDemo/ScrollerTabViewShot2.png)
-![Alt Text](https://github.com/liya328/ScrollerTabView/blob/master/ScrollerTabViewDemo/ScrollerTabViewShot3.png)
+![image](https://github.com/liya328/ScrollerTabView/blob/master/ScrollerTabViewDemo/ScrollerTabViewShot1.png)
+![image](https://github.com/liya328/ScrollerTabView/blob/master/ScrollerTabViewDemo/ScrollerTabViewShot2.png)
+![image](https://github.com/liya328/ScrollerTabView/blob/master/ScrollerTabViewDemo/ScrollerTabViewShot3.png)
 
 ## Usage
 ```
